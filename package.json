@@ -1,0 +1,22 @@
+{
+  "name": "landing-api-use",
+  "version": "1.0.0",
+  "description": "Landing page created during the course of asynchronisms with JavaScript at platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurovargas/Landing-API-Use.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Arturo <sergiovargas199791@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurovargas/Landing-API-Use/issues"
+  },
+  "homepage": "https://github.com/arthurovargas/Landing-API-Use#readme"
+}
