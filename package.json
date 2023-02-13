@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/arthurovargas/Landing-API-Use/issues"
   },
-  "homepage": "https://github.com/arthurovargas/Landing-API-Use#readme"
+  "homepage": "https://github.com/arthurovargas/Landing-API-Use#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
