@@ -21,11 +21,7 @@ fetchData(`${API}/products`)
     return fetchData(`${API}/products/${products[0].id}`);
   })
   .then((product) => {
-    console.info(product.title);
-    return fetchData(`${API}/categories/${product?.category?.id}`);
-  })
-  .then((category) => {
-    console.info(category.name);
+    console.info(product.category.name);
   })
   .catch((err) => {
     console.error(err);
