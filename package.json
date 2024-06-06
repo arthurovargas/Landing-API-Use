@@ -20,8 +20,7 @@
   },
   "homepage": "https://github.com/arthurovargas/Landing-API-Use#readme",
   "dependencies": {
-    "node-fetch": "^3.3.2",
-    "xmlhttprequest": "^1.8.0"
+    "node-fetch": "^3.3.2"
   },
   "type": "module"
 }
